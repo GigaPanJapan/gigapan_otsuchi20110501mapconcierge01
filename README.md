@@ -1,0 +1,2 @@
+# gigapan_otsuchi20110501mapconcierge01
+GigaPan 撮影データ
