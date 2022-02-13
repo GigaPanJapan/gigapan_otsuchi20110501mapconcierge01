@@ -1,0 +1,1387 @@
+2011-10-11 14:19:23 {0} [ console ] : Redirect successful
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=1,l=1)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=1,l=1)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:0 y:0 l:0);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:1 y:0 l:1);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:0 y:0 l:1);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:1 y:0 l:1)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=0,l=2)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=0,l=2)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=1,l=2)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=1,l=2)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:0 y:0 l:1)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=0,l=2)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=0,l=2)
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:1 y:0 l:1);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:2 y:0 l:2);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=1,l=2)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=1,l=2)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:2 y:0 l:2)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=0,l=3)
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:0 y:0 l:1);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:1 y:0 l:2);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:0 y:0 l:2);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=0,l=3)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=1,l=3)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=1,l=3)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:1 y:0 l:2)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=0,l=3)
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:2 y:0 l:2);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:4 y:1 l:3);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:4 y:0 l:3);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=0,l=3)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=1,l=3)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=1,l=3)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:4 y:1 l:3)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=8,y=2,l=4)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:1 y:0 l:2);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:3 y:1 l:3);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:2 y:1 l:3);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:3 y:0 l:3);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:2 y:0 l:3);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=9,y=2,l=4)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=8,y=3,l=4)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=9,y=3,l=4)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:3 y:1 l:3)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=6,y=2,l=4)
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:4 y:1 l:3);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:9 y:3 l:4);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:8 y:3 l:4);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:9 y:2 l:4);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:8 y:2 l:4);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=7,y=2,l=4)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=6,y=3,l=4)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=7,y=3,l=4)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:9 y:3 l:4)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=18,y=6,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:3 y:1 l:3);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:7 y:3 l:4);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:6 y:3 l:4);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:7 y:2 l:4);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:6 y:2 l:4);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=19,y=6,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=18,y=7,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=19,y=7,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:7 y:3 l:4)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=14,y=6,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:9 y:3 l:4);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:19 y:7 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:18 y:7 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:19 y:6 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:18 y:6 l:5);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=15,y=6,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=14,y=7,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=15,y=7,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:19 y:6 l:5)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=38,y=12,l=6)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=39,y=12,l=6)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=38,y=13,l=6)
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:7 y:3 l:4);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:15 y:7 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:14 y:7 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:15 y:6 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:14 y:6 l:5);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=39,y=13,l=6)
+2011-10-11 14:19:23 {1} [ console ] : No image found
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:18 y:6 l:5)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=36,y=12,l=6)
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:19 y:6 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 NULL
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:38 y:13 l:6);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:38 y:12 l:6);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=37,y=12,l=6)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=36,y=13,l=6)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=37,y=13,l=6)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:6 y:3 l:4)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=12,y=6,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:18 y:6 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:37 y:13 l:6);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:36 y:13 l:6);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:37 y:12 l:6);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:36 y:12 l:6);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=13,y=6,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=12,y=7,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=13,y=7,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {1} [ console ] : Loading (x:7 y:2 l:4)
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=14,y=4,l=5)
+2011-10-11 14:19:23 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:23 {0} [ console ] : Adding high-res to (x:6 y:3 l:4);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:13 y:7 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:12 y:7 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:13 y:6 l:5);  refcnt=2
+2011-10-11 14:19:23 {0} [ console ] : New QuadTreeLOD: (x:12 y:6 l:5);  refcnt=2
+2011-10-11 14:19:23 {1} [ console ] : CreateTile::generateTile at tile(x=15,y=4,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=14,y=5,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=15,y=5,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:8 y:3 l:4)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=16,y=6,l=5)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:7 y:2 l:4);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:15 y:5 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:14 y:5 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:15 y:4 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:14 y:4 l:5);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=17,y=6,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=16,y=7,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=17,y=7,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:9 y:2 l:4)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=18,y=4,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=19,y=4,l=5)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:8 y:3 l:4);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:17 y:7 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:16 y:7 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:17 y:6 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:16 y:6 l:5);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=18,y=5,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=19,y=5,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:17 y:6 l:5)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=12,l=6)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:9 y:2 l:4);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:19 y:5 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:18 y:5 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:19 y:4 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:18 y:4 l:5);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=12,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=13,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=13,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:19 y:5 l:5)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=38,y=10,l=6)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:17 y:6 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:35 y:13 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:34 y:13 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:35 y:12 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:34 y:12 l:6);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=39,y=10,l=6)
+2011-10-11 14:19:24 {1} [ console ] : No image found
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=38,y=11,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=39,y=11,l=6)
+2011-10-11 14:19:24 {1} [ console ] : No image found
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:18 y:5 l:5)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=36,y=10,l=6)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:19 y:5 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 NULL
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 NULL
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:38 y:11 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:38 y:10 l:6);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=37,y=10,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=36,y=11,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=37,y=11,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:19 y:4 l:5)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=38,y=8,l=6)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:18 y:5 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:37 y:11 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:36 y:11 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:37 y:10 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:36 y:10 l:6);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=39,y=8,l=6)
+2011-10-11 14:19:24 {1} [ console ] : No image found
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=38,y=9,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=39,y=9,l=6)
+2011-10-11 14:19:24 {1} [ console ] : No image found
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:18 y:4 l:5)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=36,y=8,l=6)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:19 y:4 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 NULL
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 NULL
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:38 y:9 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:38 y:8 l:6);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=37,y=8,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=36,y=9,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=37,y=9,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:16 y:6 l:5)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=32,y=12,l=6)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:18 y:4 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:37 y:9 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:36 y:9 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:37 y:8 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:36 y:8 l:6);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=33,y=12,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=32,y=13,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=33,y=13,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:8 y:2 l:4)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=16,y=4,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:16 y:6 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:33 y:13 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:32 y:13 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:33 y:12 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:32 y:12 l:6);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=17,y=4,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=16,y=5,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=17,y=5,l=5)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:2 y:1 l:3)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=2,l=4)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:8 y:2 l:4);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:17 y:5 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:16 y:5 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:17 y:4 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:16 y:4 l:5);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=2,l=4)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=3,l=4)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=3,l=4)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:17 y:5 l:5)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=10,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:2 y:1 l:3);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:5 y:3 l:4);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:4 y:3 l:4);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:5 y:2 l:4);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:4 y:2 l:4);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=10,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=11,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=11,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:16 y:5 l:5)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=32,y=10,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=33,y=10,l=6)
+2011-10-11 14:19:24 {0} [ console ] : Adding high-res to (x:17 y:5 l:5);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:35 y:11 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:34 y:11 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:35 y:10 l:6);  refcnt=2
+2011-10-11 14:19:24 {0} [ console ] : New QuadTreeLOD: (x:34 y:10 l:6);  refcnt=2
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=32,y=11,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=33,y=11,l=6)
+2011-10-11 14:19:24 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:24 {1} [ console ] : Loading (x:17 y:4 l:5)
+2011-10-11 14:19:24 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=8,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:16 y:5 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:33 y:11 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:32 y:11 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:33 y:10 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:32 y:10 l:6);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=8,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=9,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=9,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:16 y:4 l:5)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=32,y=8,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:17 y:4 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:35 y:9 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:34 y:9 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:35 y:8 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:34 y:8 l:6);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=33,y=8,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=32,y=9,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=33,y=9,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:3 y:0 l:3)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=6,y=0,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=7,y=0,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:16 y:4 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:33 y:9 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:32 y:9 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:33 y:8 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:32 y:8 l:6);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=6,y=1,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=7,y=1,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:2 y:0 l:3)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=0,l=4)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:3 y:0 l:3);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:7 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:6 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:7 y:0 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:6 y:0 l:4);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=0,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=1,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=1,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:7 y:1 l:4)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:2 y:0 l:3);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=14,y=2,l=5)
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:5 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:4 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:5 y:0 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:4 y:0 l:4);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=15,y=2,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=14,y=3,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=15,y=3,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:7 y:0 l:4)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=14,y=0,l=5)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:7 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:15 y:3 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:14 y:3 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:15 y:2 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:14 y:2 l:5);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=15,y=0,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=14,y=1,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=15,y=1,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:4 y:0 l:3)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=8,y=0,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:7 y:0 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:15 y:1 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:14 y:1 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:15 y:0 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:14 y:0 l:5);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=9,y=0,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=8,y=1,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=9,y=1,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:0 y:0 l:2)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=0,l=3)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=0,l=3)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:4 y:0 l:3);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:9 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:8 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:9 y:0 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:8 y:0 l:4);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=1,l=3)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=1,l=3)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:9 y:1 l:4)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=18,y=2,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:0 y:0 l:2);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:1 y:1 l:3);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:0 y:1 l:3);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:1 y:0 l:3);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:0 y:0 l:3);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=19,y=2,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=18,y=3,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=19,y=3,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:1 y:1 l:3)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=2,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=2,l=4)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:9 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:19 y:3 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:18 y:3 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:19 y:2 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:18 y:2 l:5);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=3,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=3,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:19 y:3 l:5)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=38,y=6,l=6)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:1 y:1 l:3);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:3 y:3 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:2 y:3 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:3 y:2 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:2 y:2 l:4);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=39,y=6,l=6)
+2011-10-11 14:19:25 {1} [ console ] : No image found
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=38,y=7,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=39,y=7,l=6)
+2011-10-11 14:19:25 {1} [ console ] : No image found
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:3 y:3 l:4)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=6,y=6,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:19 y:3 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 NULL
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 NULL
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:38 y:7 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:38 y:6 l:6);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=7,y=6,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=6,y=7,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=7,y=7,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:2 y:3 l:4)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=6,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=6,l=5)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:3 y:3 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:7 y:7 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:6 y:7 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:7 y:6 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:6 y:6 l:5);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=7,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=7,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:2 y:2 l:4)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=4,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=4,l=5)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:2 y:3 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:5 y:7 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:4 y:7 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:5 y:6 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:4 y:6 l:5);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=5,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=5,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:18 y:3 l:5)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=36,y=6,l=6)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:2 y:2 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:5 y:5 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:4 y:5 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:5 y:4 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:4 y:4 l:5);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=37,y=6,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=36,y=7,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=37,y=7,l=6)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:0 y:1 l:3)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=2,l=4)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:18 y:3 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:37 y:7 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:36 y:7 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:37 y:6 l:6);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:36 y:6 l:6);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=2,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=3,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=3,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:1 y:0 l:3)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=0,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=0,l=4)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:0 y:1 l:3);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:1 y:3 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:0 y:3 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:1 y:2 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:0 y:2 l:4);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=1,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=1,l=4)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:1 y:3 l:4)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=6,l=5)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:1 y:0 l:3);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:3 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:2 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:3 y:0 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:2 y:0 l:4);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=6,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=7,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=7,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:2 y:1 l:4)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=2,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:1 y:3 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:3 y:7 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:2 y:7 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:3 y:6 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:2 y:6 l:5);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=2,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=3,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=3,l=5)
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : Loading (x:2 y:6 l:5)
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=12,l=6)
+2011-10-11 14:19:25 {0} [ console ] : Adding high-res to (x:2 y:1 l:4);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:5 y:3 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:4 y:3 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:5 y:2 l:5);  refcnt=2
+2011-10-11 14:19:25 {0} [ console ] : New QuadTreeLOD: (x:4 y:2 l:5);  refcnt=2
+2011-10-11 14:19:25 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:25 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=12,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=13,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=13,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:0 y:3 l:4)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=6,l=5)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:2 y:6 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:5 y:13 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:4 y:13 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:5 y:12 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:4 y:12 l:6);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=6,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=7,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=7,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:1 y:2 l:4)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=4,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=4,l=5)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:0 y:3 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:1 y:7 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:0 y:7 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:1 y:6 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:0 y:6 l:5);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=5,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=5,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:1 y:6 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=12,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=12,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=13,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=13,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:0 y:6 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=12,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=12,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=13,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=13,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:0 y:2 l:4)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=4,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=4,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=5,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=5,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:0 y:0 l:3)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=0,l=4)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=0,l=4)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=1,l=4)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=1,l=4)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:8 y:1 l:4)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=16,y=2,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=17,y=2,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=16,y=3,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=17,y=3,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:9 y:0 l:4)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=18,y=0,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=19,y=0,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=18,y=1,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=19,y=1,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:8 y:0 l:4)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=16,y=0,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=17,y=0,l=5)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:1 y:2 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:3 y:5 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:2 y:5 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:3 y:4 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:2 y:4 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:1 y:6 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:3 y:13 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:2 y:13 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:3 y:12 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:2 y:12 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:0 y:6 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:1 y:13 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:0 y:13 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:1 y:12 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:0 y:12 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:0 y:2 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:1 y:5 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:0 y:5 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:1 y:4 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:0 y:4 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:0 y:0 l:3);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:1 y:1 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:0 y:1 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:1 y:0 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:0 y:0 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:8 y:1 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:17 y:3 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:16 y:3 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:17 y:2 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:16 y:2 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:9 y:0 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:19 y:1 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:18 y:1 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:19 y:0 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:18 y:0 l:5);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=16,y=1,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=17,y=1,l=5)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:17 y:3 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=6,l=6)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:8 y:0 l:4);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:17 y:1 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:16 y:1 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:17 y:0 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:16 y:0 l:5);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=6,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=7,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=7,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:16 y:3 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=32,y=6,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=33,y=6,l=6)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:17 y:3 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:35 y:7 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:34 y:7 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:35 y:6 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:34 y:6 l:6);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=32,y=7,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=33,y=7,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:17 y:2 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=4,l=6)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:16 y:3 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:33 y:7 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:32 y:7 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:33 y:6 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:32 y:6 l:6);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=4,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=34,y=5,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=35,y=5,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:2 y:5 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=10,l=6)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:17 y:2 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:35 y:5 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:34 y:5 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:35 y:4 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:34 y:4 l:6);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=10,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=11,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=11,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:2 y:4 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=8,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=8,l=6)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:2 y:5 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:5 y:11 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:4 y:11 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:5 y:10 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:4 y:10 l:6);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=9,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=9,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:1 y:5 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=10,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=10,l=6)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:2 y:4 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:5 y:9 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:4 y:9 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:5 y:8 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:4 y:8 l:6);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=11,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=11,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:0 y:5 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=10,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=10,l=6)
+2011-10-11 14:19:26 {0} [ console ] : Adding high-res to (x:1 y:5 l:5);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:3 y:11 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:2 y:11 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:3 y:10 l:6);  refcnt=2
+2011-10-11 14:19:26 {0} [ console ] : New QuadTreeLOD: (x:2 y:10 l:6);  refcnt=2
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=11,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=11,l=6)
+2011-10-11 14:19:26 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:26 {1} [ console ] : Loading (x:1 y:4 l:5)
+2011-10-11 14:19:26 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=8,l=6)
+2011-10-11 14:19:27 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:27 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=8,l=6)
+2011-10-11 14:19:27 {0} [ console ] : Adding high-res to (x:0 y:5 l:5);  refcnt=2
+2011-10-11 14:19:27 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:27 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:27 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:27 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:27 {0} [ console ] : New QuadTreeLOD: (x:1 y:11 l:6);  refcnt=2
+2011-10-11 14:19:27 {0} [ console ] : New QuadTreeLOD: (x:0 y:11 l:6);  refcnt=2
+2011-10-11 14:19:27 {0} [ console ] : New QuadTreeLOD: (x:1 y:10 l:6);  refcnt=2
+2011-10-11 14:19:27 {0} [ console ] : New QuadTreeLOD: (x:0 y:10 l:6);  refcnt=2
+2011-10-11 14:19:27 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:27 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=9,l=6)
+2011-10-11 14:19:27 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:27 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=9,l=6)
+2011-10-11 14:19:27 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:27 {1} [ console ] : Loading (x:0 y:4 l:5)
+2011-10-11 14:19:27 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=8,l=6)
+2011-10-11 14:19:27 {0} [ console ] : Adding high-res to (x:1 y:4 l:5);  refcnt=2
+2011-10-11 14:19:27 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:27 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:27 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:27 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:27 {0} [ console ] : New QuadTreeLOD: (x:3 y:9 l:6);  refcnt=2
+2011-10-11 14:19:27 {0} [ console ] : New QuadTreeLOD: (x:2 y:9 l:6);  refcnt=2
+2011-10-11 14:19:27 {0} [ console ] : New QuadTreeLOD: (x:3 y:8 l:6);  refcnt=2
+2011-10-11 14:19:27 {0} [ console ] : New QuadTreeLOD: (x:2 y:8 l:6);  refcnt=2
+2011-10-11 14:19:28 {0} [ console ] : Open Gigapan
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=8,l=6)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=9,l=6)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=9,l=6)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : Loading (x:1 y:1 l:4)
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=2,l=5)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {0} [ console ] : Adding high-res to (x:0 y:4 l:5);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:1 y:9 l:6);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:0 y:9 l:6);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:1 y:8 l:6);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:0 y:8 l:6);  refcnt=2
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=2,l=5)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=3,l=5)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=3,l=5)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : Loading (x:0 y:1 l:4)
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=2,l=5)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=2,l=5)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=3,l=5)
+2011-10-11 14:19:29 {0} [ console ] : Adding high-res to (x:1 y:1 l:4);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:3 y:3 l:5);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:2 y:3 l:5);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:3 y:2 l:5);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:2 y:2 l:5);  refcnt=2
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=3,l=5)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : Loading (x:2 y:3 l:5)
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=6,l=6)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=6,l=6)
+2011-10-11 14:19:29 {0} [ console ] : Adding high-res to (x:0 y:1 l:4);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:1 y:3 l:5);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:0 y:3 l:5);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:1 y:2 l:5);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:0 y:2 l:5);  refcnt=2
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=4,y=7,l=6)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=5,y=7,l=6)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : Loading (x:1 y:3 l:5)
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=6,l=6)
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:29 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=6,l=6)
+2011-10-11 14:19:29 {0} [ console ] : Adding high-res to (x:2 y:3 l:5);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:5 y:7 l:6);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:4 y:7 l:6);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:5 y:6 l:6);  refcnt=2
+2011-10-11 14:19:29 {0} [ console ] : New QuadTreeLOD: (x:4 y:6 l:6);  refcnt=2
+2011-10-11 14:19:29 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=7,l=6)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=7,l=6)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : Loading (x:0 y:3 l:5)
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=6,l=6)
+2011-10-11 14:19:30 {0} [ console ] : Adding high-res to (x:1 y:3 l:5);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:3 y:7 l:6);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:2 y:7 l:6);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:3 y:6 l:6);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:2 y:6 l:6);  refcnt=2
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=6,l=6)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=7,l=6)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=7,l=6)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : Loading (x:1 y:2 l:5)
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=4,l=6)
+2011-10-11 14:19:30 {0} [ console ] : Adding high-res to (x:0 y:3 l:5);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:1 y:7 l:6);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:0 y:7 l:6);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:1 y:6 l:6);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:0 y:6 l:6);  refcnt=2
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=4,l=6)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=5,l=6)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=5,l=6)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : Loading (x:1 y:0 l:4)
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=0,l=5)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=0,l=5)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {0} [ console ] : Adding high-res to (x:1 y:2 l:5);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:3 y:5 l:6);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:2 y:5 l:6);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:3 y:4 l:6);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:2 y:4 l:6);  refcnt=2
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=2,y=1,l=5)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=3,y=1,l=5)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : Loading (x:0 y:0 l:4)
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=0,l=5)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {0} [ console ] : Adding high-res to (x:1 y:0 l:4);  refcnt=2
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=0,l=5)
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:3 y:1 l:5);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:2 y:1 l:5);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:3 y:0 l:5);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:2 y:0 l:5);  refcnt=2
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=1,l=5)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=1,l=5)
+2011-10-11 14:19:30 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:30 {0} [ console ] : Adding high-res to (x:0 y:0 l:4);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=3 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=2 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=1 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : addLoaded i=0 QuadTreeLOD
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:1 y:1 l:5);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:0 y:1 l:5);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:1 y:0 l:5);  refcnt=2
+2011-10-11 14:19:30 {0} [ console ] : New QuadTreeLOD: (x:0 y:0 l:5);  refcnt=2
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:1 l:3);  refcnt=1, rez count now 172
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:0 l:3);  refcnt=1, rez count now 171
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:9 y:3 l:4);  refcnt=1, rez count now 170
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:8 y:3 l:4);  refcnt=1, rez count now 169
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:6 y:0 l:4);  refcnt=1, rez count now 168
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:7 y:0 l:4);  refcnt=1, rez count now 167
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:7 y:1 l:4);  refcnt=1, rez count now 166
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:0 l:3);  refcnt=1, rez count now 165
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:7 y:2 l:4);  refcnt=1, rez count now 164
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:7 y:3 l:4);  refcnt=1, rez count now 163
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:1 l:3);  refcnt=1, rez count now 162
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:0 l:2);  refcnt=1, rez count now 161
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:9 y:0 l:4);  refcnt=1, rez count now 160
+2011-10-11 14:19:31 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:0 l:4);  refcnt=1, rez count now 159
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:18 y:4 l:5);  refcnt=1, rez count now 158
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:0 l:4);  refcnt=1, rez count now 157
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:17 y:5 l:5);  refcnt=1, rez count now 156
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:17 y:4 l:5);  refcnt=1, rez count now 155
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:8 y:2 l:4);  refcnt=1, rez count now 154
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:0 l:4);  refcnt=1, rez count now 153
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:0 l:4);  refcnt=1, rez count now 152
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:3 l:4);  refcnt=1, rez count now 151
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:2 l:4);  refcnt=1, rez count now 150
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:3 l:4);  refcnt=1, rez count now 149
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:3 l:4);  refcnt=1, rez count now 148
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:17 y:2 l:5);  refcnt=1, rez count now 147
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:17 y:3 l:5);  refcnt=1, rez count now 146
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:8 y:1 l:4);  refcnt=1, rez count now 145
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:18 y:5 l:5);  refcnt=1, rez count now 144
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:5 l:6);  refcnt=1, rez count now 143
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:5 l:6);  refcnt=1, rez count now 142
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:2 l:5);  refcnt=1, rez count now 141
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:38 y:8 l:6);  refcnt=1, rez count now 140
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:19 y:4 l:5);  refcnt=1, rez count now 139
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:9 y:2 l:4);  refcnt=1, rez count now 138
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:1 l:3);  refcnt=1, rez count now 137
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:5 l:6);  refcnt=1, rez count now 136
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:5 l:6);  refcnt=1, rez count now 135
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:2 l:5);  refcnt=1, rez count now 134
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:38 y:7 l:6);  refcnt=1, rez count now 133
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:6 l:6);  refcnt=1, rez count now 132
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:6 l:6);  refcnt=1, rez count now 131
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:7 l:6);  refcnt=1, rez count now 130
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:7 l:6);  refcnt=1, rez count now 129
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:3 l:5);  refcnt=1, rez count now 128
+2011-10-11 14:19:32 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:38 y:6 l:6);  refcnt=1, rez count now 127
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:19 y:3 l:5);  refcnt=1, rez count now 126
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:6 l:6);  refcnt=1, rez count now 125
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:6 l:6);  refcnt=1, rez count now 124
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:7 l:6);  refcnt=1, rez count now 123
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:7 l:6);  refcnt=1, rez count now 122
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:3 l:5);  refcnt=1, rez count now 121
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:1 l:4);  refcnt=1, rez count now 120
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:17 y:1 l:5);  refcnt=1, rez count now 119
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:8 y:0 l:4);  refcnt=1, rez count now 118
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:5 l:6);  refcnt=1, rez count now 117
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:5 y:5 l:6);  refcnt=1, rez count now 116
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:2 l:5);  refcnt=1, rez count now 115
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:5 l:5);  refcnt=1, rez count now 114
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:4 l:5);  refcnt=1, rez count now 113
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:2 l:4);  refcnt=1, rez count now 112
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:1 l:3);  refcnt=1, rez count now 111
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:5 l:5);  refcnt=1, rez count now 110
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:4 l:5);  refcnt=1, rez count now 109
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:1 l:4);  refcnt=1, rez count now 108
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:5 y:9 l:6);  refcnt=1, rez count now 107
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:5 y:8 l:6);  refcnt=1, rez count now 106
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:8 l:6);  refcnt=1, rez count now 105
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:4 l:5);  refcnt=1, rez count now 104
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:2 l:4);  refcnt=1, rez count now 103
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:8 l:6);  refcnt=1, rez count now 102
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:8 l:6);  refcnt=1, rez count now 101
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:4 l:5);  refcnt=1, rez count now 100
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:8 l:6);  refcnt=1, rez count now 99
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:8 l:6);  refcnt=1, rez count now 98
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:4 l:5);  refcnt=1, rez count now 97
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:2 l:4);  refcnt=1, rez count now 96
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:1 l:3);  refcnt=1, rez count now 95
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:3 l:5);  refcnt=1, rez count now 94
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:2 l:5);  refcnt=1, rez count now 93
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:1 l:4);  refcnt=1, rez count now 92
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:0 l:3);  refcnt=1, rez count now 91
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:3 l:5);  refcnt=1, rez count now 90
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:3 y:2 l:5);  refcnt=1, rez count now 89
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:5 y:7 l:6);  refcnt=1, rez count now 88
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:7 l:6);  refcnt=1, rez count now 87
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:5 y:6 l:6);  refcnt=1, rez count now 86
+2011-10-11 14:19:33 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:6 l:6);  refcnt=1, rez count now 85
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:3 l:5);  refcnt=1, rez count now 84
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:1 l:4);  refcnt=1, rez count now 83
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:0 l:3);  refcnt=1, rez count now 82
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:0 l:2);  refcnt=1, rez count now 81
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:0 l:1);  refcnt=1, rez count now 80
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:18 y:3 l:5);  refcnt=1, rez count now 79
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:18 y:2 l:5);  refcnt=1, rez count now 78
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:38 y:5 l:6);  refcnt=1, rez count now 77
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:19 y:2 l:5);  refcnt=1, rez count now 76
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:9 y:1 l:4);  refcnt=1, rez count now 75
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:4 y:0 l:3);  refcnt=1, rez count now 74
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:2 y:0 l:2);  refcnt=1, rez count now 73
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:1 y:0 l:1);  refcnt=1, rez count now 72
+2011-10-11 14:19:34 {0} [ console ] : removeExpiredSubgraphs: Derezzed (x:0 y:0 l:0);  refcnt=0, rez count now 71
+2011-10-11 14:19:36 {0} [ console ] : open_gigapan /Volumes/SHD-LV/Picture/20110501_Ohtsuchi_No03/20110501_.gigapan
+2011-10-11 14:19:36 {0} [ console ] : Initializing stitch_mode, upload_mode, upload_requested
+2011-10-11 14:19:36 {0} [ console ] : Setting feature matcher to 1
+2011-10-11 14:19:36 {0} [ console ] : Read /Volumes/SHD-LV/Picture/20110501_Ohtsuchi_No03/20110501_.gigapan successfully
+2011-10-11 14:19:36 {0} [ console ] : Found /Volumes/SHD-LV/Picture/20110501_Ohtsuchi_No03/20110501_.data/tiles/r.info
+2011-10-11 14:19:36 {0} [ console ] : Switching stitch_mode to STITCH_FINISHED_MODE
+2011-10-11 14:19:36 {0} [ console ] : QuadTreeInfo: read from /Volumes/SHD-LV/Picture/20110501_Ohtsuchi_No03/20110501_.data/tiles/r.info, tree has 9 levels
+2011-10-11 14:19:36 {0} [ console ] : valid_tiles_at_level(8)=Vector2(154,60)
+2011-10-11 14:19:36 {0} [ console ] : TileStatusSet created, m_work_level=8 width=154 height=60
+2011-10-11 14:19:36 {0} [ console ] : Initializing panorama display
+2011-10-11 14:19:36 {0} [ console ] : CreateTile::generateTile at tile(x=0,y=0,l=0)
+2011-10-11 14:19:36 {0} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:36 {0} [ console ] : Get pan, tilt.  Center vec is Vector3(0.983199,-0.152518,0.100289)
+2011-10-11 14:19:36 {0} [ console ] : center pan, tilt is 0.101651,0.153116
+2011-10-11 14:19:36 {0} [ console ] : Viewport hfov: 88.6729
+2011-10-11 14:19:36 {0} [ console ] : Viewport vfov: 50
+2011-10-11 14:19:36 {1} [ console ] : Loading (x:0 y:0 l:0)
+2011-10-11 14:19:36 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=0,l=1)
+2011-10-11 14:19:36 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:36 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=0,l=1)
+2011-10-11 14:19:36 {1} [ console ] : Read image, size = 256 by 256
+2011-10-11 14:19:36 {1} [ console ] : CreateTile::generateTile at tile(x=0,y=1,l=1)
+2011-10-11 14:19:36 {1} [ console ] : No image found
+2011-10-11 14:19:36 {1} [ console ] : CreateTile::generateTile at tile(x=1,y=1,l=1)
+2011-10-11 14:19:36 {1} [ console ] : No image found
+2011-10-11 14:19:36 {0} [ console ] : Redirecting log to: /Volumes/SHD-LV/Picture/20110501_Ohtsuchi_No03/20110501_.data/log20111011-141936.txt
